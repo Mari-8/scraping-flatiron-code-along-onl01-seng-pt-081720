@@ -46,3 +46,6 @@ end
 
 Scraper.new.get_page
 
+
+Scraper.new.pring_courses
+
